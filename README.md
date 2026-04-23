@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Colorado
 
-> Free BeamStation sample export with 99 rows and masked direct-contact fields.
+> Free BeamStation sample export with 111 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `892247` |
 | Location | Colorado |
 | Category | Food and Drink |
-| Full dataset size | 992 records |
-| Free sample size | 99 records (9.98%) |
-| Last export | 2026-04-16T22:14:17.254935+00:00 |
+| Full dataset size | 1,119 records |
+| Free sample size | 111 records (9.92%) |
+| Last export | 2026-04-23T17:11:04.367597+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-892247/releases/download/sample-latest/beamstation_892247_food_and_drink-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
